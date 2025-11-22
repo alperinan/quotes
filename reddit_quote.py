@@ -221,11 +221,7 @@ def update_function(self, *args, **kwargs):
     conn = create_or_connect_db()
 
     my_quote = get_random_quote(conn)
-    if not my_quote:
-        print("No quotes found in the database.")
-        return
-    author = my_quote["author"] or "Unknown"                    
-
+                 
     #my_quote['len']=''
     #my_quote['attribution'] = ''
     #my_quote['text'] = ''
