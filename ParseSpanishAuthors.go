@@ -290,6 +290,8 @@ func main() {
 
 /etc/default/paperpi.ini
 
+Yorgolar Rum'du. Pek çok başka gayrimüslim aile gibi varlık vergisinin sillesini fena yemişlerdi. O zamanlar iktidarda Cumhuriyet Halk Partisi vardı. Bu nedenle günahları kadar sevmiyorlardı CHP'yi. Haksız da sayılmazlardı.
+
 ─2872 bash /usr/local/bin/paperpi -d
              └─2874 python3 /usr/local/paperpi/paperpi.py -d
 
